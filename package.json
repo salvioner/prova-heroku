@@ -1,11 +1,11 @@
 {
-  "name": "prova-heroku",
+  "name": "helloworld-heroku",
   "version": "1.0.0",
   "description": "Prova di deploy con Heroku",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+, "start": "node index.js"  },
   "author": "Andrea Arighi",
   "license": "ISC",
   "dependencies": {
